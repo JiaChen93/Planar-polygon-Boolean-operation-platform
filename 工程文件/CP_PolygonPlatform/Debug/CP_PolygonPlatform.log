@@ -1,0 +1,35 @@
+﻿生成启动时间为 2014/12/22 23:26:31。
+     1>项目“D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\CP_PolygonPlatform\CP_PolygonPlatform.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\CP_PolygonPlatform.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CP_PolygonPlatform.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CP_Polygon.cpp CP_PolygonPlatform.cpp CP_PolygonPlatformDoc.cpp CP_PolygonPlatformView.cpp CP_Triangle.cpp MainFrm.cpp
+         MainFrm.cpp
+         CP_Triangle.cpp
+         CP_PolygonPlatformView.cpp
+     1>d:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\cp_polygonplatform\cp_polygonplatformview.cpp(3013): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\cp_polygonplatform\cp_polygonplatformview.cpp(3015): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\cp_polygonplatform\cp_polygonplatformview.cpp(3084): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\cp_polygonplatform\cp_polygonplatformview.cpp(3086): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\cp_polygonplatform\cp_polygonplatformview.cpp(3316): warning C4101: “polyL”: 未引用的局部变量
+         CP_PolygonPlatformDoc.cpp
+         CP_PolygonPlatform.cpp
+         CP_Polygon.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _DEBUG /l"0x0804" /IDebug\ /nologo /fo"Debug\CP_PolygonPlatform.res" CP_PolygonPlatform.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\Debug\CP_PolygonPlatform.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\Debug\CP_PolygonPlatform.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\Debug\CP_PolygonPlatform.lib" /MACHINE:X86 Debug\CP_PolygonPlatform.res
+         Debug\CP_Polygon.obj
+         Debug\CP_PolygonPlatform.obj
+         Debug\CP_PolygonPlatformDoc.obj
+         Debug\CP_PolygonPlatformView.obj
+         Debug\CP_Triangle.obj
+         Debug\MainFrm.obj
+         Debug\stdafx.obj
+         CP_PolygonPlatform.vcxproj -> D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\Debug\CP_PolygonPlatform.exe
+     1>已完成生成项目“D:\学习\研一课程\计算机辅助几何造型\作业\2014213501_贾晨_大作业\工程文件\CP_PolygonPlatform\CP_PolygonPlatform.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:36.01
